@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CNvvs5GlILuZFu0REu8nc32+4vxQvuAIBsq4wZf/GmramlD2PJYTLtN93A1sW2ZFWULMLp7RMjJu40MFNTnU8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mlgeiduh\\OneDrive - Flex\\Desktop\\MasterEL Projects\\MasterEL_Web\\MasterEL_Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.8\\microsoft.aspnetcore.authentication.openidconnect.7.0.8.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\mlgeiduh\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

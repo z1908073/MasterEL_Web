@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MasterEL_Web.props" />
+</Project>
